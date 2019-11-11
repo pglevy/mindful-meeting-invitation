@@ -12,6 +12,10 @@ I created this template as reminder for myself to be mindful of how I request pe
 2. In Outlook, open the View Templates panel in a new appointment.
 3. Name the template and paste the contents of the clipboard.
 
+![alt text](https://github.com/pglevy/mindful-meeting-invitation/blob/master/images/installation.png "Installing template from site")
+
 ## Usage
 1. To use the template with Outlook, open the View Templates and press the template in the list.
 2. Edit the placeholder content as needed.
+
+![alt text](https://github.com/pglevy/mindful-meeting-invitation/blob/master/images/usage.png "Using template with Outlook")
