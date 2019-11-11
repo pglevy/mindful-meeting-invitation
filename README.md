@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Mindful Meeting Invitation
 
-You can use the [editor on GitHub](https://github.com/pglevy/mindful-meeting-invitation/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+”"Time is our most valuable nonrenewable resource.”
+— Albert-László Barabási, physicist
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About this project
+I created this template as reminder for myself to be mindful of how I request people's time. I posted it here in case others find it useful.
 
-### Markdown
+## Installation
+1. To grab the template, go to the site and use the Copy To Clipboard button.
+2. In Outlook, open the View Templates panel in a new appointment.
+3. Name the template and paste the contents of the clipboard.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pglevy/mindful-meeting-invitation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Usage
+1. To use the template with Outlook, open the View Templates and press the template in the list.
+2. Edit the placeholder content as needed.
