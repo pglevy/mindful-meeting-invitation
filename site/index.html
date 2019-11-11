@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title></title>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link rel="stylesheet" href="https://unpkg.com/@primer/css/dist/primer.css" />
+	<style>
+	  ul {
+	  margin-left: 16px;
+		}
+	</style>
+</head>
+<body>
+	<div class="container-lg col-6 p-2 mx-auto">
+		<h1>Mindful Meeting Invitation</h1>
+		<h2>The Template</h2>
+		<p><button class="btn btn-primary" data-clipboard-target="#template">Copy To Clipboard</button></p>
+		<div id="template" class="Box p-4 mb-4 mt-4">
+			<h2>Goal</h2>
+			<p>What we want to accomplish during this time:</p>
+			<ul>
+				<li>Decide on this</li>
+				<li>Finish that</li>
+				<li>Etc.</li>
+			</ul>
+			<h2>Agenda</h2>
+			<p>What activities or topics we’re planning to do or discuss:</p>
+			<ul>
+				<li>Discuss this topic</li>
+				<li>Run this activity</li>
+				<li>Etc.</li>
+			</ul>
+			<h2>Preparation</h2>
+			<p>What participants need to do in advance of the meeting to make it productive)</p>
+			<ul>
+				<li>Read this</li>
+				<li>Do this</li>
+				<li>Etc.</li>
+			</ul>
+			<h2>Organizer Checklist</h2>
+			<p>□ I only requested the time of people who really need to be here (or designated them as optional).<br>
+				□ I confirmed that required attendees are free at this time.<br>
+				□ I included the goal, agenda, and any needed preparation above.<br>
+				□ I accounted for both co-located and remote participants.<br>
+				□ I scheduled only the time needed.</p>
+				<p>Have a suggestion or want a copy of the Mindful Meeting Invitation template? <a href="https://codepen.io/pglevy/pen/BaaPjaJ">Check it out on Codepen</a></p>
+			</div>
+
+			<p><button class="btn btn-primary" data-clipboard-target="#template">Copy To Clipboard</button></p>
+			<h2>Usage</h2>
+		</div>
+		<script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
+		<script id="rendered-js">
+	      new ClipboardJS('.btn', {
+	  		container: document.getElementById('template')
+	  		});
+	    </script>
+	</body>
+	</html>
