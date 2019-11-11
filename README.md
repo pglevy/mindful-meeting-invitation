@@ -1,6 +1,6 @@
 # Mindful Meeting Invitation
 
-”"Time is our most valuable nonrenewable resource.”
+“Time is our most valuable nonrenewable resource.”
 — Albert-László Barabási, physicist
 
 ## About this project
