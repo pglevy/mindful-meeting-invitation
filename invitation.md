@@ -1,3 +1,5 @@
+<div id="template">
+
 # Goal
 What we want to accomplish during this time:
 
@@ -27,3 +29,14 @@ Organizer Checklist:
 - I scheduled only the time needed.
 
 Have a suggestion or want a copy of the Mindful Meeting Invitation template? [View the project on Github](https://github.com/pglevy/mindful-meeting-invitation)
+
+</div>
+
+<button class="btn btn-primary" data-clipboard-target="#template">Copy To Clipboard</button></p>
+
+<script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
+		<script id="rendered-js">
+	      new ClipboardJS('.btn', {
+	  		container: document.getElementById('template')
+	  		});
+	    </script>
