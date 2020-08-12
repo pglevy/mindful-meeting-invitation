@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 <script src="https://gist.github.com/pglevy/68abde0612bbab77462dc9266469481e.js"></script>
 
 
