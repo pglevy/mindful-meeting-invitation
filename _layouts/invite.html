@@ -14,7 +14,13 @@
       <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
       {% endif %}
 
+      <p><button class="btn btn-primary" data-clipboard-target="#invite-content">Copy To Clipboard</button></p>
+
+      <div id="invite-content">
+
       {{ content }}
+
+      </div>
 
       {% if site.github.private != true and site.github.license %}
       <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
@@ -34,5 +40,11 @@
       ga('send', 'pageview');
     </script>
     {% endif %}
+    <script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
+    <script id="rendered-js">
+        new ClipboardJS('.btn', {
+            container: document.getElementById('file-invitation-md')
+        });
+    </script>
   </body>
 </html>
