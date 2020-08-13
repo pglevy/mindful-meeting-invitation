@@ -1,5 +1,5 @@
 ---
-layout: invite
+layout: invitation
 ---
 
 Log:
@@ -26,7 +26,7 @@ What participants need to do in advance of the meeting to make it productive:
 - Do this
 - Etc.
 
-Organizer Checklist:
+## Organizer Checklist
 - I only requested the time of people who really need to be here (or designated them as optional).
 - I confirmed that required attendees are free at this time.
 - I included the goal, agenda, and any needed preparation above.

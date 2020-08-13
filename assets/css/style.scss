@@ -2,3 +2,12 @@
 ---
 
 @import "jekyll-theme-primer";
+
+.markdown-body h1, .markdown-body h2 {
+  border-bottom: 0;
+}
+
+.markdown-body h2 {
+  padding-top: 0.3em;
+  border-top: 1px solid #eaecef;
+}
