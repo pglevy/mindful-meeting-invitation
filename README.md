@@ -19,3 +19,6 @@ I created this template as reminder for myself to be mindful of how I request pe
 2. Edit the placeholder content as needed.
 
 ![alt text](/images/usage.png "Using template with Outlook")
+
+## Credit
+This project uses [clipboard.js](https://clipboardjs.com/) for the clipboard functionality.
