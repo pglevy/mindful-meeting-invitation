@@ -5,21 +5,21 @@ layout: invite
 Log:
 - Invitation sent
 
-# Goal
+## Goal
 What we want to accomplish during this time:
 
 - Decide on this
 - Finish that
 - Etc.
 
-# Agenda
+## Agenda
 What activities or topics we’re planning to do or discuss:
 
 - Discuss this topic
 - Run this activity
 - Etc.
 
-# Preparation
+## Preparation
 What participants need to do in advance of the meeting to make it productive:
 
 - Read this
