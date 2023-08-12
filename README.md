@@ -1,3 +1,6 @@
+> [!NOTE]
+> This project has been archived.
+
 # Mindful Meeting Invitation
 
 “Time is our most valuable nonrenewable resource.”
